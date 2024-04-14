@@ -19,7 +19,7 @@
 ```
 git clone https://github.com/BecooOn/react/coding-challenges/CC-01-ToDo-App.git
 ```
--Bağımlılıkları yüklemek için:
+- Bağımlılıkları yüklemek için:
 ```
 yarn install
 ```
